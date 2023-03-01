@@ -1,0 +1,23 @@
+{
+  "name": "final-project-cameronswan-1",
+  "version": "1.0.0",
+  "description": "INFT 4000 Final Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mt-nscc/final-project-CameronSwan-1.git"
+  },
+  "author": "Cameron Swan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mt-nscc/final-project-CameronSwan-1/issues"
+  },
+  "homepage": "https://github.com/mt-nscc/final-project-CameronSwan-1#readme",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
